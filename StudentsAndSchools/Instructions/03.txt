@@ -1,0 +1,5 @@
+﻿
+Students and Schoold: Part 3/6
+
+• Modify Property Height for it to take into account if the measure is in Inch or in Cm.
+• Adapt the Calling Code

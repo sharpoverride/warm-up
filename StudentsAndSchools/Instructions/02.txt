@@ -1,0 +1,8 @@
+﻿
+Students and Schools: Part 2/6
+
+- What is an Extension Method?
+  Answer:
+
+
+- Write an Extension method "ToJson" of a class "Student" that creates a serialized string that represent the Student.

@@ -1,0 +1,13 @@
+﻿
+Students and Schools: Part 1/6
+
+- Write a class "Student" with a 
+  - "Name" that can not be changed after the class is instantiated
+  - list of string (Classes) (ie of Use  = _student.Classes.Add("English");
+  - int (Height)
+
+
+- Create a piece of code that will instantiate the Student with 
+  - Name = "John" 
+  - Height =  175 
+  - Classes "English" and "Finance"

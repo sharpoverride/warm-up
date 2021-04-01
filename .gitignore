@@ -1,0 +1,8 @@
+obj/
+bin/
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/students-and-schools/v16/.suo
+/.vs/VSWorkspaceState.json
+/.vs/WarmUp/v16/.suo
+/FizzBuzz/.vs/FizzBuzz/DesignTimeBuild/.dtbcache.v2

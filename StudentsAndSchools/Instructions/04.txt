@@ -1,0 +1,10 @@
+﻿
+Students and Schools: Part 4/6
+
+- Create a class "School" in a way it can be instantiated only once in the program
+
+
+- The School class should contain 
+	- a Name, 
+	- a list of Students, 
+	- a list of Classes

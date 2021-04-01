@@ -1,0 +1,6 @@
+﻿
+Students and Schools: Part 5/6
+
+- Create an interface IStudentsProvider With 1 method that return the list of Student for a given class
+  
+  Please implement it at the School Level

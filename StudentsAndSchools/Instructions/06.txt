@@ -1,0 +1,8 @@
+﻿
+Students and Schools: Part 6/6
+
+- In the case of several implementations of IStudentsProvider (Many Schools), 
+  What design pattern could be used to retrieve the implementation of the interface dynamically depending on the name of the School?
+
+
+  Answer:
